@@ -1,0 +1,32 @@
+Instrucciones
+
+PASO 1: Abrir y ejecutar los scripts en el orden en el que estan enumerados:
+
+1."Creacion de esquemas y tablas"
+2."Creacion de Vistas"
+3."Creacion de funciones"
+4."Creacion de procedimientos"
+5."Creacion de Triggers"
+
+PASO 2: opcionalmente Abrir y ejecutar el script completo:
+
+6."SCHEME NBAFAN FINAL"
+
+PASO 3: Visualizar el esquema
+
+1. Proyecto NBAFAN 
+ a. Abrir MySQL Workbench
+ b. En la barra de menú - file - open model
+ c. Seleccionar el proyecto "SCHEME NBA FAN FINAL" y abrir para visualizar el esquema de la base de datos
+
+
+
+
+
+
+
+
+
+
+
+
